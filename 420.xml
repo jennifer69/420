@@ -1,1 +1,5 @@
-<xml xmlns="http://www.w3.org/1999/xhtml"></xml>
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="multimedia_playwav" id="20" x="208" y="173">
+    <field name="WAV"></field>
+  </block>
+</xml>
